@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c2p31087&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c2p31087&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<!--
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=c2p31087&show_icons=true&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c2p31087&theme=dark&layout=compact" />
 </p>
+-->
