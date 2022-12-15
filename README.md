@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <img src="https://github.com/c2p31087.png" width="80" hight="80" />
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c2p31087&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c2p31087&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!-- old
